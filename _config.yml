@@ -1,0 +1,19 @@
+title: AIME | AIME TECH MEDIA LIMITED
+description: At AIME TECH MEDIA, we push the boundaries of technology to deliver innovative mobile solutions and forward-thinking applications.
+url: https://www.aime.ink
+baseurl: ""
+lang: en
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+permalink: pretty
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - vendor
